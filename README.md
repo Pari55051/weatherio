@@ -1,21 +1,21 @@
 
-# Project Title
+# Weatherio
 
-A brief description of what this project does and who it's for
+Weather App
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, API
+**Client:** HTML, CSS, JavaScript, API (OpenWeather App API)
 
 ## Demo
 
-Insert gif or link to demo
+[Live Demo]()
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Current Location
+- Air Quality and Wind Speed
+- 5 Day Forecast, Hourly Forecast, Current Weather
 
 ## Screenshots
 
@@ -48,14 +48,10 @@ Open with live server
 ```
 
 
-## Authors
+## Credits
 
 - [@codewithsadee](https://www.github.com/codewithsadee)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
